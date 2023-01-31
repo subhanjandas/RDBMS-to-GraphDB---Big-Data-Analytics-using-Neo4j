@@ -10,7 +10,7 @@ Through this project, the following questions are addressed:
 - The total number of products in the dataset is determined.
 - The top 5 products by sales are ranked.
 - The category with the highest sales is identified and the products in that category are listed.
-- With the implementation of Neo4j, the project demonstrates the power of graph databases in managing big data and providing insights for decision making.
+With the implementation of Neo4j, the project demonstrates the power of graph databases in managing big data and providing insights for decision making.
 
 ## Tools Used 
 - Neo4j
